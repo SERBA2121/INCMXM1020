@@ -1,4 +1,10 @@
 # INCNXM1020
+### FIXING THEME RESET ->
+- Open MTManager and go to /system_ext/etc/init
+- Open "init.miui.ext.rc"
+- Find string №177
+- Change 0777 to 0731
+- Reboot
 ### Install Guide:
 
 - Wipe dalvik cache etadata,

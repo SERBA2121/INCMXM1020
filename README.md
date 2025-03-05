@@ -1,5 +1,5 @@
 # INCNXM1020
-### FIXING THEME RESET ->
+### FIXING THEME RESET:
 - Open MTManager and go to /system_ext/etc/init
 - Open "init.miui.ext.rc"
 - Find string №177
